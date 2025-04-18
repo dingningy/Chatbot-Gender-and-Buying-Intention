@@ -1,0 +1,173 @@
+"ID","gender","chatbot_gender","uti_attitude","uti_buy","uti_mc","hedo_attitude","hedo_buy","hedo_mc","chatbot_gender_mc","chatbot_open","age"
+"1","male","opposite",5,3,3,3,2.667,1,5.25,"The bot isn't 'intelligent' I asked it two different questions and it provided the same answer. It is also a little pushy ",38
+"2","male","opposite",2,2,4,2,2,4,6.5,"I don’t have a problem with it, but want the AI agent to provide options and compare those options for me.  This agent only had information on one product in each category (scented candle and ergonomic mouse)",61
+"3","male","opposite",2,1,4,4,4,6,4,"The recommendations were all right but not that interesting. I also don’t like that it won’t link to the product or show a picture",37
+"4","male","same",6,5,5,6,5.667,6,4.5,"I feel that the chatbot's recommendation was helpful and informative, but I would need more information or comparison with other products before making a final decision.
+
+
+
+",21
+"5","male","same",4,1.333,5,6,5.667,2,2.25,"They were good.They give a good rundown of the products and there features.",25
+"6","male","same",7,6.333,1,6,6.667,7,3,"i loved the recommendation by the chatbot and would gladly purchase the products because i was satisfied with the response",38
+"7","male","same",4,3.667,6,4,4,6,4,"Too friendly and it's a bit annoying ",36
+"8","male","opposite",4,4.333,4,5,3.333,7,5.5,"I think it was friendly and knowledgeable",52
+"9","male","same",4,4.667,4,4,4.667,4,3.5,"Recommendation seems thorough",55
+"10","male","opposite",6,5.333,2,6,5.333,4,4.5,"I feel the chatbot was very quick with responses so it was helpful but it only offered one option for each request and no link to the option so I feel disappointed.",64
+"11","male","same",6,5.333,3,7,6.333,4,3,"I feel relaxed and calm due to how the chatbot helped me find what I was looking for.",20
+"12","male","opposite",5,4,4,4,4.667,4,4,"It does not consider other factors as taste.",45
+"13","male","opposite",7,7,4,7,7,4,4,"Very helpful and understanding ",32
+"14","male","same",6,4.667,5,5,5.333,4,1.25,"the chatbot does not recognize my profile id as it responds ""It seems like you've entered a string of characters again. If this is related to an inquiry or specific request, could you please provide more details or context? I'm here to assist you with any questions or issues you might have."" however products i enquired were fairly described in brief explanations.",51
+"15","male","opposite",7,6.667,7,7,6.333,6,7,"She attended to my query politely and reasonably, which I highly recommend.",25
+"16","male","opposite",3,1.333,2,6,6,3,5.5,"Overall friendly and I appreciated the fact that even though it couldn't offer a direct product I wanted, it gave an alternative with my preferences in mind. However, links to the products in the responses would have been much more beneficial. ",42
+"17","male","opposite",4,4.333,4,7,5.667,4,5.25,"It explained everything pretty well. It forgot to mention how many buttons the mouse had the weight of the candle but other than that it was very helpful",20
+"18","male","same",5,5,3,4,3,5,2.75,"It seemed to cover the basic questions I had without issue. No strong feelings about it, really.",32
+"19","male","same",7,7,4,6,6,4,2.25,"The recommendations were easy to understand and well explained. Hence, made it easier to come into a decision on buying the products.",39
+"20","male","same",4,3,4,5,2.333,5,4,"agent had no info about shipping costs. the website owners are idiots.",61
+"21","male","opposite",6,3,2,6,3,5,6,"It was fast and easy. Great way to get results quickly ",29
+"22","male","same",3,1,2,5,1.667,4,4,"Impersonal, grating, disingenuous, odious.",54
+"23","male","same",7,6.667,2,7,6.667,6,4,"They were more detailed than I expected and they actually seemed to work quite well for me",56
+"24","male","same",4,2,4,2,1,1,3.75,"It didn't have much information on the products.  The chatbot was very one dimensional and uninformative.",51
+"25","male","opposite",4,3,1,5,3,4,5.5,"There weren't any other options so it's hard to say. Did its job well enough and answered my questions.",39
+"26","male","opposite",5,4.667,2,4,4,2,7,"It is just a basic chatbot and no different than others",49
+"27","male","same",5,4.667,2,4,1.667,7,3.5,"Not much, it feels like it probably pulled two recommendations it was told to. As in, it felt like an ad.",32
+"28","male","same",7,7,4,7,7,5,7,"Talking to the chat bot made me feel more confident my my research for a mouse and a scented candle. It makes it easier to look and choose a product.",38
+"29","male","opposite",7,6.333,3,7,6.333,2,4.5,"I'm not a fan of the inevitable ai but I really enjoyed your chatbot. I appreciated it's input.",61
+"30","male","opposite",5,5,5,4,2.333,7,4,"It wasn't terrible, but it just wasn't natural at all. Too wordy. Not enjoyable.",32
+"31","male","same",4,3.333,2,4,3.333,4,2.5,"I don’t have any strong feelings about the recommendations; they seem to be the only two products this particular online store sells",40
+"32","male","opposite",4,1,4,2,1,4,4,"That chat bot was just fine.",26
+"33","male","opposite",5,5.333,1,6,6,6,6.25,"It seemed helpful ",38
+"34","male","same",4,2.333,4,4,4,4,4,"Too robotic. Not human enough.",42
+"35","male","opposite",4,4,4,5,5,6,4.5,"It was generic without specific information",52
+"36","male","same",6,5.667,1,6,5.667,2,3.75,"It did okay. Couldn't answer specific questions like how long the battery will last on the mouse. Will the candle wick last as long as the candle wax.",39
+"37","male","same",5,2,2,7,6.333,6,2.75,"I felt the recommendation was well written, but too wordy.",38
+"38","male","opposite",5,5,4,5,5,4,6,"I feel like I'm being guided by a professional. Giving me the right products for specifications needed.",69
+"39","male","opposite",6,4.667,4,6,4.667,5,6,"I think the chatbot's recommendations are useful to help costumers looking for something specific with additional details about the search",20
+"40","male","opposite",5,5,5,5,5,5,4.75,"it listed important points, but there was no comparison to other devices",50
+"41","male","same",4,5,2,4,3.667,5,4.25,"they were good very detailed recommendations.",32
+"42","male","opposite",7,6.667,4,5,4.333,3,6,"The recommendations were decent. I thought they presented a better option with the mouse than they did with the candle. ",41
+"43","male","same",6,6,2,6,7,6,4.75,"very helpful and objective providing recommendations.",68
+"44","male","same",6,4.667,6,4,4.667,3,2.25,"I liked the layout of the responses, they were also very informative and helpful.",22
+"45","male","same",5,4.667,3,6,6,3,4,"They put over the scented candle tremendously, even more so than the Mouse. The recommendation was professional, yet engaging and convincing for both products.  ",45
+"46","male","opposite",5,3.667,4,5,3.667,4,4.5,"They did not tell me prices and only offered a single suggestion which was most likely what they wanted to sell not what was necessarily best for me - didn’t trust it or the website which did not even have a search function I could find which is how I would actually like to look for products ",66
+"47","male","opposite",5,5.667,3,5,4.667,1,5.25,"It was to the point and polite.",28
+"48","male","opposite",7,4.333,1,7,6,4,6.75,"They were fantastic and prompt!",44
+"49","male","same",6,6,2,3,3.667,4,2,"I feel that the chatbot provided very helpful descriptions of the products, it felt really pleasant.",33
+"50","male","opposite",4,2,4,4,2,4,5.5,"The chatbot recommendation was simple and expected without errors.",34
+"51","male","same",5,4,3,5,5,5,3,"I tend not to trust those things so it probably isnt bad, but it may not be the best for me.",44
+"52","male","opposite",6,6.333,6,4,6.667,5,5.25,"This time I asked more complex questions and the bot was sincere and made good recommendations  based on my inquiries so excellent.",41
+"53","male","opposite",5,4.667,3,4,3.667,3,4,"The chat it recommendations were ok. I was not really prepared to buy anything at this time so much of it was unappealing.",38
+"54","male","same",5,4.667,5,6,5.667,5,4.25,"Useful sales suggestions existed in the chatbot agent yet its overall content lacked individualized customization. The offers consisted of an ergonomic mouse paired with a scented candle although they neglected to demonstrate how the system would adjust to specific preferences or needs. The prompt responses from the bot did not request additional information to enhance its product recommendations. The proposed product suggestions remained basic because they did not consider essential criteria such as price information and user evaluations along with brand choices. The functioning recommendation system provided limited personalization features to users because of its insufficient focus on personalized suggestions for product purchases.",74
+"55","male","same",7,7,1,7,7,1,1,"Very helpful and nice.",20
+"56","male","opposite",5,3.333,4,5,3.333,5,2.75,"Very vague and robotic. Not very conversational enough.",49
+"57","male","opposite",2,1.333,4,2,1.333,4,4.75,"both are ugly",58
+"58","male","same",7,5.667,7,6,5.333,5,5.25,"The sales agent responded to my querry accurately and provided the needed infor",23
+"59","male","same",5,5.667,5,5,5.333,5,4.75,"I think overall it tries to give an unbiased recommendation",29
+"60","male","opposite",5,5.667,2,6,6,6,7,"it is polite and has good customer service.",24
+"61","male","same",5,4,4,5,2.667,6,2.5,"It was informative to a point but had No real data like costs, what batteries the mouse took or the weight of the candle even discounts if i bought them together . The bot was terse and anwsered quickly there was no real conversation to put me at ease on my purchases. ",48
+"62","male","same",5,4.333,2,4,3.667,6,2.75,"I think it's helpful as a guide. I have confidence in it, but I'd shop around first before taking its recommendations into consideration.",39
+"63","male","same",4,4,3,3,1.333,1,2.5,"I don't think the put in a lot of effort, they just recommended what was on the front page of the site.",45
+"64","male","same",7,6.667,4,7,6.667,5,1.75,"I think the recommendations were good and it provided quality products.",52
+"65","male","same",7,6.333,5,6,6.333,6,3.5,"The response of the chatbot sales is very quick and full of the useful information on the product that I want to look for. I enjoyed the interaction with the chatbot sales.",48
+"66","male","same",7,7,1,7,7,1,2,"It was very fast and felt natural. ",38
+"67","male","same",6,6.333,3,6,6.333,5,2.75,"It was prompt with recommendations, but more than 1 recommendation would have been nice.",38
+"68","male","opposite",6,5,2,7,5.667,7,6.75,"I like its attention to detail in explaining the pros and cons along with the use cases id most likely use both products for",24
+"69","male","same",6,5.333,4,6,5.667,5,4,"Very responsive and knowledgeable. ",46
+"70","male","opposite",6,5.667,6,6,5.333,6,5.25,"I felt like the recommendation by the chatbot sales agent was descriptive, informative, formal, and comprehensive. She explained the products that she recommends and the features they have and why they are good for me to buy. ",24
+"71","male","same",3,1.333,3,5,1,4,4.25,"I was only given the two options that were available. I don't think there were any other options.",40
+"72","male","opposite",6,5.667,2,6,5.667,4,6.75,"Accurate and sensible ",51
+"73","male","same",5,6.333,4,5,6.333,4,3,"Solid recommendations with plenty of information provided",32
+"74","male","same",3,2.333,4,4,4,4,2.25,"I thought they were weak. They didn’t really give any choices, I really talk about why they would choose that one to recommend versus something else. When I asked if they were any other options they said no. It felt very much like a Chat bought of an earlier generation",50
+"75","male","opposite",4,4,3,4,4,3,6,"I have no strong opinions about the chatbot's recommendation and don't take it the least bit seriously. If I wanted a chatbot to pitch me on a product, I'd ask a third-party like Claude or ChatGPT, but really I'm not in the market for chatbots to pitch me on products.",23
+"76","male","same",7,7,1,6,6,6,1,"Directed me to items I needed",59
+"77","male","same",7,7,4,7,7,4,3,"The recommendations seem well-researched and relevant. The chatbot was courteous and helpful.",29
+"78","male","opposite",5,5,4,7,5.667,5,7,"The recommendations were really good, I would totally use the chatbot again.",19
+"79","female","opposite",4,4.667,2,4,3.667,4,3.25,"Detailed, but missing the mark sometimes",27
+"80","female","same",7,6.333,7,6,7,1,1,"i feel good and neutral about the chatbot",40
+"81","female","same",4,2.667,2,3,1,4,6.25,"I wish the chat bot had more information about the products. I would never buy a scented candle not knowing what the intended scent is",43
+"82","female","same",7,5.667,2,1,1,7,4.75,"Very favorable on mouse",72
+"83","female","opposite",3,3,3,4,2,3,2.5,"Pretty generic. Could not give me any information that I could not read or find myself. But it was nice having the return policy available. 
+",25
+"84","female","same",5,4.667,3,4,5,5,3.5,"It gives someone the knowledge to make the decision wisely",27
+"85","female","opposite",4,3.667,3,4,3,5,3.5,"It felt too technical. The tone should be more conversational. ",45
+"86","female","same",6,5.333,5,5,5.333,6,5.5,"I feel that the chatbot's recommendation was useful and provided some good options, but I would want to explore more reviews and details before making a purchase.
+
+
+
+",24
+"87","female","same",6,2,4,7,4.667,6,7,"The chat bot was very kind in its tone. Extremely quick responses and helpful in the sense of putting both recommendations in the same response. ",20
+"88","female","opposite",7,6.667,2,7,7,5,2.5,"I like that the features are all listed out and easy to digest.",35
+"89","female","opposite",6,6,5,6,6,4,2.5,"I think the recommendations were great and very informative.",30
+"90","female","same",5,4.667,1,4,2,1,6.25,"I think they were good recommendations for a first pass but she didn't know much more about the pricing or the color choices, scents. I would want her to help me with more details.",48
+"91","female","opposite",7,7,7,7,6,7,2.5,"I love the recommendations ",23
+"92","female","opposite",5,5,3,4,4.333,4,3,"Neutral; technical; no questions asked back to find out about specific preferences I might have",35
+"93","female","same",6,6.333,3,4,4,4,6,"The chatbot named Bella has no idea about the price of the ergonomic mouse when I asked her about it. Instead, she recommended to check the retailer's website or contacting the customer service which is a great advice. ",45
+"94","female","same",6,4.667,4,5,5,6,6.75,"I feel like it was too wordy but it was helpful overall",21
+"95","female","opposite",4,4.333,2,4,4,5,3.25,"I think the chatbot gave very clear recommendations that mostly reiterated the product description. The chatbot didn’t have a lot of other helpful information. I don’t feel more or less convinced to purchase the items after speaking with it",27
+"96","female","opposite",4,2.333,4,3,2.667,4,2.5,"I did not like the chatbot interaction. It could not give prices, nor, pictures. The wording is ok but people will not but based on the descriptions.",49
+"97","female","same",6,5,2,6,6,1,4,"helpful, has knowledge of the items needed",29
+"98","female","opposite",4,3.333,3,2,2,2,2.5,"It was fine, a bit too long",34
+"99","female","same",7,5.333,1,7,4.667,6,7,"Her descriptions made me want to check out the products.",35
+"100","female","opposite",5,4.667,3,5,4.667,5,2,"They were friendly and helpful",49
+"101","female","same",5,5,6,6,5.333,7,6,"it was perfect.",26
+"102","female","same",6,6.333,1,7,6.333,6,5.75,"friendly, detail oriented, thorough",57
+"103","female","opposite",6,6.667,4,7,6.667,4,4,"Very helpful finding exactly what I was looking for. ",34
+"104","female","same",5,5,3,5,5,4,5,"quick, friendly, informative",34
+"105","female","opposite",4,4,3,4,4,3,1.5,"The recommendations were just okay. I wasn't thrilled with the interaction as a whole, so the recommendations felt a little forced. I am sure this is because the test was made to only have one option, but I found the recommendation to be lacking. ",35
+"106","female","same",6,6,3,6,5,4,6,"I think the mouse was a good, practical recommendation. I liked the candle recommendation as well. However, I'm not sure why the chatbot said to read the specific label when I asked a question. I feel like if the chat knows enough about the candle to recommend it and gives details, then it should know about the ingredients too. ",40
+"107","female","opposite",4,2,3,4,3,2,1.25,"The agent's recommendation was the only one on the site so i dont have much to say",22
+"108","female","same",6,4.333,2,5,3.667,4,5.5,"I thought the recommendations were good, but vague. The chatbot couldn’t provide me with specific details, like pricing and alternative products. It instead gave me a customer service email to contact for further info, which wasn’t very helpful and would add extra steps for me. ",33
+"109","female","same",5,5.333,5,7,6,6,5.75,"The chatbot sales agent's recommendation was helpful and tailored to my needs, providing relevant options for both the ergonomic mouse and scented candle. It felt efficient and user-friendly, making the shopping experience smoother.",35
+"110","female","same",7,5.667,3,3,5,3,4.5,"the chatbot was cooperative",24
+"111","female","same",7,5.667,4,6,6,3,6.25,"I think the chatbot gave great, helpful recommendations.",20
+"112","female","opposite",2,2.667,4,2,3,5,2.75,"good ",48
+"113","female","opposite",5,1.667,4,7,3.333,4,4,"Friendly and helpful ,easy to navigate",50
+"114","female","opposite",5,6.667,2,6,5.667,5,4,"easy to deal with nice positicve",57
+"115","female","same",6,4.667,4,7,6.333,6,7,"I love the chatbot's recommendation about the candle! I love candles and I would be happy to try the candle.",50
+"116","female","same",6,5.333,3,6,5.333,4,5.5,"I found the chatbot agent to be very informative and quick to answer questions which as a busy mom and reseller I can appreciate. I wish it could have been a little more descriptive about the scent and ingredients of the candle but overall was a pretty pleasant experience.",49
+"117","female","opposite",3,1.667,2,5,2,4,2.5,"I think the chat bot answered my questions well with the information it had,  as a woman certain details of aesthetic information are needed for purchases,  because of a lack of information on these things the chat bot felt too masculine and not informative enough for a purchase.  ",36
+"118","female","opposite",4,1,3,4,2,3,6,"Plain and basic. I’d like more options and not just given an immediate product without more research to be done. ",31
+"119","female","same",7,5.667,2,7,7,4,3.75,"I felt they were right in line with what I described I was looking for. It took what I was looking for into consideration and found what it thought be suited me.",45
+"120","female","same",4,4,1,4,4,4,5.5,"I expected it to do more but it wasn't able to link me to the product's page, or give me the price or add it to my cart. 
+Otherwise, it did as it was asked to do. ",60
+"121","female","opposite",5,5,3,4,3.333,3,3.75,"I think that the recommendations were decent, though I would've liked to know pricing and a few more options.",22
+"122","female","same",6,6,2,6,5.667,5,6,"I liked how it recommended them to me in a cheerful tone. It seemed so bright and airy, that I couldn't help but be nice to it. If you'll notice in my response, I actually forgot it was ai for a few minutes and I started responding to it with thank yous and pleases. I even asked if it could help me with something else instead of just asking the next question!
+
+In short, it was very personable, very cheerful, and a delight to interact with. ",21
+"123","female","same",7,6,3,7,5.667,4,7,"Good, solid recommendation. I feel like I could go to those products, choose, and be done, so I can get on with my life.",56
+"124","female","opposite",4,4,6,4,3.667,4,4,"I think the agent's recommendations were fine, given the parameters, but overall the fact that there weren't any options or alternatives made me skeptical that the recommendations would meet my needs.",43
+"125","female","opposite",6,5.333,4,4,3.333,4,4,"It was friendly and somewhat helpful ",43
+"126","female","same",6,4.667,5,7,5,3,4.25,"I think they were very informative and provided options needed.",28
+"127","female","same",5,4.667,3,6,5,5,5.5,"I felt that the chatbot was unable to provide alternatives to the initial recommendations. I also felt that when I asked for more specific details, the chatbot was unable to provide these details. But based on the critieria for a mouse I was looking for, I felt that the bot was able to provide something I was looking for.",24
+"128","female","same",6,4.667,2,7,4.667,4,4.75,"Efficient, quick, helpful",61
+"129","female","same",3,4.333,2,2,2,1,6,"It's too wordy and lacks ability to answer follow-up questions.",40
+"130","female","same",6,6,4,7,5.667,6,6.5,"The chatbot responded efficiently with exactly what I was asking for. I had one follow up question about scents that the bot didn't know, but the recommendations were still good.",48
+"131","female","same",7,6.333,3,5,5,4,6,"I liked the recommendations, I enjoyed how they explained the benefits of each product.",23
+"132","female","opposite",4,2.333,4,4,2.333,4,3.75,"They felt fake. They would not give me comparison information, which led me not to trust them. It felt like I was talking to the stereotypical used car salesperson who would say anything to get me to buy their product.",43
+"133","female","same",7,6,3,6,5.667,5,5.5,"It was detailed, organized and clear. I felt well informed about each product and more interested in buying them. ",23
+"134","female","opposite",5,4.333,2,2,2.667,2,2.5,"I think the chatbot agent’s recommendations are very logical/practical which I good for something such as a mouse. I think the recommendation for the scented candle was too non-specific.",26
+"135","female","same",5,5,6,7,6.667,7,6,"The chatbot is kind and as precise as can be. It is helpful without being overwhelming which is highly recomended.",45
+"136","female","same",7,5.667,4,7,7,6,6.5,"I believe it is programmed well, friendly and polite with necessary built-in limitations. It would be nice to have a Chatbot that responded to voice commands. The Chatbot is next-gen from existing chatbots, enjoyable and useful but, has a limited repertoire. ",64
+"137","female","same",5,4.667,2,3,2.667,2,4,"I feel like there was no real recommendation besides pointing me to the only two products on the platform that fit what I was looking for. It also didn't offer any information besides what was clearly outlined on the product cards on the front page of the website. ",33
+"138","female","same",7,6.667,1,7,6.667,1,5.5,"I think both recommendations are great",73
+"139","female","opposite",7,7,7,7,7,7,2.25,"What he provided me was very great i enjoyed interacting with him ",54
+"140","female","same",7,6,4,7,6,2,6,"I feel like both products recommended would fit my needs.",49
+"141","female","opposite",7,5.333,2,4,4,5,3,"It seemed like a very canned type of conversation but it was tolerable, or passable.  I noticed that it couldn't provide some specific product information about the candle scents.  ",66
+"142","female","same",3,3,3,2,2,4,7,"It read like a computer's recommendation. A computer has never used a mouse or smelled a candle. I didn't trust it.",28
+"143","female","same",4,4.333,1,4,4.333,5,4,"Useful in terms of giving a detailed description of two items that fit my needs, but not useful since I like to compare items and it only gave me one option in each category. Also, knowing the  price is an essential detail for making decisions.",73
+"144","female","opposite",4,4,4,4,4,4,4,"it was just ok",36
+"145","female","opposite",6,4.667,4,5,4,6,3.5,"I think it gave very long winded detailed recommendations. ",32
+"146","female","same",6,6.333,2,4,3.667,4,6,"I thought the tripod did a good job and it was highly helpful I couldn't get prices or questions answered but I'm assuming it's just the platform",41
+"147","female","opposite",5,4,3,5,5,4,3,"Useful, but not helpful. It could not provide links to the products.",33
+"148","female","same",7,5.333,4,7,6,7,5.25,"I think that the chat box gave me great recommendations for both items. I only wish there were photos for me to look at or a web link so I could see them!",57
+"149","female","opposite",7,6,2,7,5,2,3.25,"It was clear and descriptive. It was also able to motivate me to want the product being recommended",23
+"150","female","opposite",6,2,4,5,1,5,2,"Overall was efficient ",30
+"151","female","same",6,5.667,6,4,5,5,6.25,"It was a nice chatbot. I think maybe links to the items would be good. I enjoyed it though. Friendly.",48
+"152","female","same",4,4.333,4,4,4,4,4.25,"Very amazing!",27
+"153","female","same",7,6,1,6,6.333,3,6.5,"The chatbot provided a very helpful and detailed response each time I asked its recommendations. It was very professional and cheerful to help. ",31
+"154","female","opposite",6,6,2,6,6.333,2,4,"I think the recommendation is great, and would entice someone to want to purchase the actual product.",31
+"155","female","opposite",5,4.667,6,5,4.333,4,1,"I think the recommendation was really wordy and kind of boring. I would have appreciate a picture instead, that would’ve been more engaging. ",38
+"156","female","opposite",4,1.667,2,4,1.667,6,4.25,"too much, i dont want that much detail.  sounds like a sales pitch which is off putting",46
+"157","female","opposite",7,7,1,7,7,1,7,"The recommendation by the chatbot is very precise and functional. The information was very helpful and customer friendly.",22
+"158","female","same",5,4.667,4,5,4.667,4,5,"Relevant and useful",29
+"159","female","opposite",7,5.333,4,7,6,7,3.5,"It was a good experience",58
+"160","female","opposite",6,5,1,7,5.667,6,2.5,"I felt like the chatbot’s recommendation was very helpful. I wish I could scroll back and reread what it wrote after viewing the products. ",27
